@@ -1,0 +1,1 @@
+This Python program is a Mini Finite-State Machine (FSM) that simulates a traffic light system. It cycles through the states RED → GREEN → YELLOW → RED based on predefined durations. The program allows users to choose the number of cycles and whether to use real-time delays, then displays each state transition along with the full history of visited states.
